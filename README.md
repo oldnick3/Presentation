@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmation !
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisTitusTech&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oldnick3&show_icons=true&theme=tokyonight" />
 </a></p>
 
 <div id="top"></div>
