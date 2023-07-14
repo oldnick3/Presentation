@@ -1,4 +1,6 @@
-                                                        ☀️☄️🌓⌛🧬Orion🧬⌛🌓☄️☀️
+                                                       
+<div id="top"></div>
+<div align="center" ><img alt="☀️☄️🌓⌛🧬Orion🧬⌛🌓☄️☀️" src="./assets/header.png"></div>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oldnick3&show_icons=true&theme=tokyonight" />
@@ -15,7 +17,6 @@
  <tr><td><a href="README.md">🇺🇸English</a></td></tr>
  <tr><td><a href="README-pt-br.md">🇫🇷français</a></td></tr>
 </table>
-🧬🔎⌛🌓☀️☄️
 
 </br>
 
