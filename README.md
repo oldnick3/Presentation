@@ -1,22 +1,21 @@
-- 👋 Hi, I’m @oldnick3
-- 👀 I’m interested in programmation !
+                                                        ☀️☄️🌓⌛🧬Orion🧬⌛🌓☄️☀️
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oldnick3&show_icons=true&theme=tokyonight" />
 </a></p>
 
 <div id="top"></div>
-<div align="center" ><img alt="welcome" src="./assets/header.png"></div>
+<div align="center" ><img alt="Welcome To My Page" src="./assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Orion;He/him; Computer+Engineering+Doscovery; France+Network+Dev;Programming+Script+:3;Power+The+lightning+%3C3;function+findQuestion(42)" alt="Computer Engineering,Discovery, French ,Network, Power The lightning "></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Orion;Computer+Doscovery; 🇫🇷French+;Network;Programming+;Power+The+lightning+⚡;+findQuestion(42)" alt="Computer Discovery, French ,Network, Power The lightning "></a>
 </div>
 
 <table align="right">
  <tr><td><a href="README.md">🇺🇸English</a></td></tr>
  <tr><td><a href="README-pt-br.md">🇫🇷français</a></td></tr>
 </table>
-
+🧬🔎⌛🌓☀️☄️
 
 </br>
 
