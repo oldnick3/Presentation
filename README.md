@@ -13,8 +13,8 @@
 </div>
 
 <table align="right">
- <tr><td><a href="README.md">🇺🇸:English</a></td></tr>
- <tr><td><a href="README-pt-br.md">🇫🇷:français</a></td></tr>
+ <tr><td><a href="README.md">🇺🇸English</a></td></tr>
+ <tr><td><a href="README-pt-br.md">🇫🇷français</a></td></tr>
 </table>
 
 
