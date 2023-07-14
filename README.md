@@ -6,10 +6,10 @@
 </a></p>
 
 <div id="top"></div>
-<div align="center" ><img alt="welcome to my profile!" src="./assets/header.png"></div>
+<div align="center" ><img alt="welcome" src="./assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Orion;self thaught+Student;Français+Front-end+Dev;Sun+Moon+the truth+%3C3;function+findQuestion(42)" alt=".">Three things cannot be hidden, the sun, the moon, the truth</a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Orion;He/him;Computer+Engineering+Doscovery;France+Frontend+Dev;Programming+Script+:3;Power+lightning+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering, Discovery, French front-end developer, Power lightning lover"></a>
 </div>
 
 <table align="right">
