@@ -9,7 +9,7 @@
 <div align="center" ><img alt="welcome" src="./assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Orion;He/him;Computer+Engineering+Doscovery;France+Frontend+Dev;Programming+Script+:3;Power+lightning+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering, Discovery, French front-end developer, Power lightning lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Orion;He/him; Computer+Engineering+Doscovery; France+Network+Dev;Programming+Script+:3;Power+The+lightning+%3C3;function+findQuestion(42)" alt="Computer Engineering,Discovery, French ,Network, Power The lightning "></a>
 </div>
 
 <table align="right">
